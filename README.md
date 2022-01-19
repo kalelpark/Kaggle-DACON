@@ -25,3 +25,16 @@
       </ul>
     </ul>
 </ul>
+</br>
+</br>
+<ul>
+  <li>Digit Recognizer</li>
+    <ul>
+      <li>https://www.kaggle.com/c/digit-recognizer</li>
+      </br>
+      <li>Notebook</li>
+      <ul>
+        <li>https://www.kaggle.com/kalelpark/mnist-classification-ensemble-kor-eng-ac-99-6</li>
+      </ul>
+    </ul>
+</ul>
