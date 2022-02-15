@@ -13,5 +13,8 @@
     <ul>
       <li>https://www.kaggle.com/c/digit-recognizer</li>
     </ul>      
-
+<li>Happywhale - Whale and Dolphin Identification</li>
+    <ul>
+      <li>https://www.kaggle.com/c/happy-whale-and-dolphin</li>
+    </ul>    
 <h6>🌟 CODE는 ISSUE를 참고해주시기 바랍니다.</h6>
