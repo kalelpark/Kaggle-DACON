@@ -4,6 +4,7 @@
 <li>Titanic - Machine Learning from Disaster</li>
     <ul>
       <li>https://www.kaggle.com/c/titanic</li>
+      <li>https://www.kaggle.com/c/spaceship-titanic</li>
     </ul>
 <li>House Prices - Advanced Regression Techniques</li>
     <ul>
