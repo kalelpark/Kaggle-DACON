@@ -21,5 +21,8 @@
 <li>Herbarium 2022 - FGVC9</li>
     <ul>
       <li>https://www.kaggle.com/c/herbarium-2022-fgvc9</li>
-    </ul>        
+    </ul>
+<b>
+    
 <h6>🌟 CODE는 ISSUE를 참고해주시기 바랍니다.</h6>
+<h6>🌟 ISSUE에 Kaggle 관련 유용한 Link 참고해주시기 바립니다.</h6>
