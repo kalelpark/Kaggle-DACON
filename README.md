@@ -13,10 +13,14 @@
 <li>Digit Recognizer</li>
     <ul>
       <li>https://www.kaggle.com/c/digit-recognizer</li>
-    </ul>      
+    </ul>
 <li>Happywhale - Whale and Dolphin Identification</li>
     <ul>
       <li>https://www.kaggle.com/c/happy-whale-and-dolphin</li>
+    </ul>    
+<li>ML Olympiad - Landscape Image Classification</li>
+    <ul>
+      <li>https://www.kaggle.com/c/ml-olympiad-landscape-image-classification</li>
     </ul>  
 <li>Herbarium 2022 - FGVC9</li>
     <ul>
