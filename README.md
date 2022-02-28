@@ -24,5 +24,4 @@
     </ul>
 <b>
     
-<h6>🌟 CODE는 ISSUE를 참고해주시기 바랍니다.</h6>
-<h6>🌟 ISSUE에 Kaggle 관련 유용한 Link 참고해주시기 바립니다.</h6>
+<h6>🌟Check resource in issue</h6>
