@@ -1,7 +1,7 @@
 # Kaggle Competition and Notebook
 </hr>
 <h3>Contents</h3>
-<li>Titanic - Machine Learning from Disaster</li>
+<li>Titanic - Machine Learning from Disaster, Spaceship Titanic</li>
     <ul>
       <li>https://www.kaggle.com/c/titanic</li>
       <li>https://www.kaggle.com/c/spaceship-titanic</li>
@@ -27,5 +27,9 @@
       <li>https://www.kaggle.com/c/herbarium-2022-fgvc9</li>
     </ul>
 <b>
-    
+<li>Cassava Leaf Disease Classification</li>
+    <ul>
+      <li>https://www.kaggle.com/c/cassava-leaf-disease-classification</li>
+    </ul>
+<b>    
 <h6>🌟Check resource in issue</h6>
