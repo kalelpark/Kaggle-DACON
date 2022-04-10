@@ -1,6 +1,7 @@
-# Kaggle Competition and Notebook
+# Kaggle & Dacon [Competition and Notebook]
+* 대회 참여 및 스터디 내용을 작성해두었습니다.
 </hr>
-<h3>Contents</h3>
+<h3>Kaggle - Contents</h3>
 <li>Titanic - Machine Learning from Disaster, Spaceship Titanic</li>
     <ul>
       <li>https://www.kaggle.com/c/titanic</li>
@@ -31,5 +32,10 @@
     <ul>
       <li>https://www.kaggle.com/c/cassava-leaf-disease-classification</li>
     </ul>
-<b>    
+<br />
+<h3>Dacon - Contents</h3>
+<li>Computer Vision 이상치 탐지 알고리즘 경진대회</li>
+    <ul>
+      <li>https://dacon.io/competitions/official/235894/overview/description</li>
+    </ul>
 <h6>🌟Check resource in issue</h6>
