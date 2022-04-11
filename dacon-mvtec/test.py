@@ -11,23 +11,19 @@ from setting import config
 from transforms import test_transform
 from pre_model import MvtecNet
 
-def label_to_key():
-    train_df = pd.read_csv(config.train_dir)
-    df, label_unique = label_to_unique(train_df)
-    reverse_dict = dict(map(reversed, label_unique.items()))
-    return reverse_dict
-
 def load_torch_record():
-    record_list = os.listdir('effei_b3')
+    record_list = os.listdir('effei_b3_test')
     return record_list
 
 def stacking_predict():
     record_list = load_torch_record()
     test_df = pd.read_csv(config.test_dir)
     submit_data = []
+    train_df = pd.read_csv(config.train_dir)
+    label_unique, reverse_dict = label_to_unique(train_df)
 
     for record in record_list:
-        model = torch.load(os.path.join('effei_b3',record))
+        model = torch.load(os.path.join('effei_b3_test',record))
         test_trans = test_transform()
 
         test_ds = mvtectestDataset(dataframe = test_df, root_dir = 'open/test', transforms= test_trans)
@@ -56,7 +52,6 @@ def stacking_predict():
         "label" : predicted
     })
 
-    reverse_dict = label_to_key()
     submission['label'] = submission['label'].map(reverse_dict)
     submission.to_csv('submit.csv', index = False)
 

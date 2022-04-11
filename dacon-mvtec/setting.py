@@ -39,5 +39,6 @@ def label_to_unique(df):
     label_unique = {key : value for key, value in zip(label_unique, range(len(label_unique)))}
     train_labels = [label_unique[k] for k in labels]
     df['label'] = train_labels
-
-    return df, label_unique
+    reverse_dict = dict(map(reversed, label_unique.items()))
+    
+    return  label_unique, reverse_dict
