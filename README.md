@@ -1,5 +1,10 @@
 # Kaggle & Dacon [Competition and Notebook]
-* 대회 참여 및 스터디 내용을 작성해두었습니다.
+<p>🌟 대회 참여 및 스터디 내용을 작성해두었습니다.</p>
+<p>🌟 관련 자료들은 ISSUE를 참고하시기 바랍니다.<p/>
+
+![kalelpark](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark)
+
+###### 현재 스터디만 진행중이며 추후 Competition 참여 예정입니다.
 </hr>
 <h3>Kaggle - Contents</h3>
 <li>Titanic - Machine Learning from Disaster, Spaceship Titanic</li>
@@ -38,4 +43,3 @@
     <ul>
       <li>https://dacon.io/competitions/official/235894/overview/description</li>
     </ul>
-<h6>🌟Check resource in issue</h6>
