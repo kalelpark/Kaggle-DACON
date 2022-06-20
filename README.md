@@ -1,6 +1,6 @@
 # Kaggle & Dacon [Competition and Notebook]
 <p>🌟 대회 참여 및 스터디 내용을 작성해두었습니다.</p>
-<p>🌟 관련 자료들은 ISSUE를 참고하시기 바랍니다.<p/>
+<p>🌟 Kaggle 관련 자료들은 ISSUE를 참고하시기 바랍니다. (DACON 자료는 링크를 참조하시기 바랍니다.)<p/>
 
 ![kalelpark](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark)
 
@@ -42,4 +42,8 @@
 <li>Computer Vision 이상치 탐지 알고리즘 경진대회</li>
     <ul>
       <li>https://dacon.io/competitions/official/235894/overview/description</li>
+    </ul>
+<li>집값 예측 경진대회</li>
+    <ul>
+      <li>https://blog.naver.com/qkrdnjsrl0628/222637225609</li>
     </ul>
