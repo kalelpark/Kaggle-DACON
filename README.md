@@ -37,6 +37,10 @@
     <ul>
       <li>https://www.kaggle.com/c/cassava-leaf-disease-classification</li>
     </ul>
+<li>2021 Kaggle Machine Learning & Data Science Survey</li>
+    <ul>
+      <li>https://www.kaggle.com/code/kalelpark/kaggle-survey-2021-south-korea</li>
+    </ul>
 <br />
 <h3>Dacon - Contents</h3>
 <li>Computer Vision 이상치 탐지 알고리즘 경진대회</li>
