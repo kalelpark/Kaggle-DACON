@@ -47,6 +47,11 @@
     <ul>
       <li>https://dacon.io/competitions/official/235894/overview/description</li>
     </ul>
+<li>카드 소비 패턴 분석 시각화 경진대회</li>
+    <ul>
+      <li>https://blog.naver.com/qkrdnjsrl0628/222795530598</li>
+      <li>https://dacon.io/competitions/official/235907/codeshare/5230?page=1&dtype=random</li>
+    </ul>
 <li>집값 예측 경진대회</li>
     <ul>
       <li>https://blog.naver.com/qkrdnjsrl0628/222637225609</li>
