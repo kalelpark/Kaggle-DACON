@@ -60,3 +60,7 @@
     <ul>
       <li>https://blog.naver.com/qkrdnjsrl0628/222637225609</li>
     </ul>
+<li>운동 동작 분류 AI 경진대회</li>
+    <ul>
+      <li>https://blog.naver.com/qkrdnjsrl0628/222804552531</li>
+    </ul>
