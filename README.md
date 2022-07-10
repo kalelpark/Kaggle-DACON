@@ -7,6 +7,10 @@
 ###### 현재 스터디만 진행중이며 추후 Competition 참여 예정입니다.
 </hr>
 <h3>Kaggle - Contents</h3>
+<li>Tabular Playground Series - Jul 2022</li>
+    <ul>
+      <li>https://blog.naver.com/qkrdnjsrl0628/222806388794</li>
+    </ul>
 <li>Titanic - Machine Learning from Disaster, Spaceship Titanic</li>
     <ul>
       <li>https://www.kaggle.com/c/titanic</li>
