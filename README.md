@@ -47,6 +47,10 @@
     </ul>
 <br />
 <h3>Dacon - Contents</h3>
+<li>신용카드 사기 거래 탐지 AI 경진대회</li>
+    <ul>
+      <li>https://dacon.io/competitions/official/235930/overview/description</li>
+    </ul>
 <li>[단국대] 따릉이 대여량 예측 AI 경진대회</li>
     <ul>
       <li>https://dacon.io/competitions/open/235915/codeshare/5346?page=1&dtype=recent</li>
