@@ -47,6 +47,10 @@
     </ul>
 <br />
 <h3>Dacon - Contents</h3>
+<li>교통 신호 동작 인식 AI 경진대회</li>
+    <ul>
+      <li>https://blog.naver.com/qkrdnjsrl0628/222819559276</li>
+    </ul>
 <li>신용카드 사기 거래 탐지 AI 경진대회</li>
     <ul>
       <li>https://dacon.io/competitions/official/235930/overview/description</li>
