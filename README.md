@@ -1,6 +1,6 @@
 # Kaggle & Dacon [Competition and Notebook]
 <p>🌟 대회 참여 및 스터디 내용을 작성해두었습니다.</p>
-<p>🌟 Kaggle 관련 자료들은 ISSUE를 참고하시기 바랍니다. (DACON 자료는 링크를 참조하시기 바랍니다.)<p/>
+<p>🌟 Kaggle & DACON 관련 유용한 자료 하단에 추가하였습니다.<p/>
 
 ![kalelpark](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kalelpark)
 
@@ -79,4 +79,11 @@
 <li>운동 동작 분류 AI 경진대회</li>
     <ul>
       <li>https://blog.naver.com/qkrdnjsrl0628/222804552531</li>
+    </ul>
+
+<br />
+<h3>Useful things</h3>
+<li>Best of Kaggle Notebooks</li>
+    <ul>
+      <li>https://www.kaggle.com/discussions/getting-started/295525</li>
     </ul>
